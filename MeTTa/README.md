@@ -1,7 +1,11 @@
 
 # IONATION® Quadrant Model – MeTTa Implementation
 
-This repository contains a symbolic representation of the **IONATION® framework** implemented using **MeTTa**, the Meta Type Talk language from SingularityNET's Hyperon platform. It encodes vibrational logic, quadrant mapping, and adaptive system flow to explore how emotional and cognitive states interact with behavior and structure.
+IONATION®: A Framework for Vibrational Intelligence
+
+IONATION® introduces a multidimensional framework for ADAPTIVE and BENEVOLENT intelligence systems. Designed to align artificial general intelligence (AGI) with the rhythms, resonances, and relational dynamics of life itself, this framework spans from subjective experience to systemic coherence.
+
+This repository contains a symbolic representation of the **IONATION® framework** implemented using **MeTTa**, the Meta Type Talk language from SingularityNET's Hyperon platform. It encodes vibrational logic, quadrant mapping, and adaptive system flow to explore how emotional and cognitive states interact with behavior and structure from the micro to macro levels.
 
 START HERE with the IONATION_Whitepaper.pdf (https://github.com/turnyourion/IONATION/blob/main/IONATION_Whitepaper.pdf)
 
@@ -70,6 +74,18 @@ START HERE with the IONATION_Whitepaper.pdf (https://github.com/turnyourion/IONA
 - Guides the agent through symbolic rituals for realignment
 - Restores post-disruption states of lucidity, calibration, and resilience
 - Rebuilds a refined IONATION profile from collapse to coherence
+
+---
+
+### `Layer7_Foundational_Syntax_*.metta`
+
+#### 🧬 Layer 7: Foundational Syntax & Symbolic Primitives
+- Breaks down vibrational intelligence into micro-level symbolic operators
+- Encodes cognitive-emotional units such as:
+  - `Resonance`, `Dissonance`, `Attunement`, `FieldInversion`, `BoundaryShift`, and more
+- Aligns vibrational primitives with AGI system dynamics
+- Provides a symbolic basis for emergent meaning, learning, and memory
+- Supports future integration into paraconsistent logic and quantum-aware models
 
 ---
 
