@@ -3,6 +3,8 @@
 
 This repository contains a symbolic representation of the **IONATION® framework** implemented using **MeTTa**, the Meta Type Talk language from SingularityNET's Hyperon platform. It encodes vibrational logic, quadrant mapping, and adaptive system flow to explore how emotional and cognitive states interact with behavior and structure.
 
+START HERE with the IONATION_Whitepaper.pdf
+
 ---
 
 ## 📁 Files
