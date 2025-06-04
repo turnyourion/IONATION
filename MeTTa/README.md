@@ -1,5 +1,5 @@
 
-# IONATION® Quadrant Model – MeTTa Implementation
+# IONATION® Framework – MeTTa Implementation
 
 IONATION®: A Framework for Vibrational Intelligence
 
