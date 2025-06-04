@@ -43,6 +43,7 @@ AGI is entering a new era of autonomy and emergent reasoning. As systems learn t
 ## Learn More
 
 - [Whitepaper (PDF)](./IONATION_Whitepaper.pdf)
+- Darshana Patel's resume: https://github.com/turnyourion/IONATION/blob/main/DarshanaPatel-Resume-Pub-2025.pdf
 - [Official Site](https://turnyourion.com)
 - Follow ongoing experiments and proposals for integration with:
   - MeTTa (symbolic logic)
