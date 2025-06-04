@@ -1,3 +1,4 @@
+
 # IONATION® Quadrant Model – MeTTa Implementation
 
 This repository contains a symbolic representation of the **IONATION® framework** implemented using **MeTTa**, the Meta Type Talk language from SingularityNET's Hyperon platform. It encodes vibrational logic, quadrant mapping, and adaptive system flow to explore how emotional and cognitive states interact with behavior and structure.
@@ -37,18 +38,50 @@ This repository contains a symbolic representation of the **IONATION® framework
 
 ---
 
+### `IONATION_MeTTa_Layer4_AgenticAlignment.metta`
+
+#### 🔄 Layer 4: Agentic Alignment & Resonant Feedback
+- Defines agentic roles, expression, and purpose
+- Models feedback loops amplifying coherent field states
+- Represents how individual alignment impacts collective field and culture
+- Tracks agent alignment via vibrational expressions
+- Suggests corrective practices when misalignment is detected
+
+---
+
+### `IONATION_MeTTa_Layer5_EntropicDrift.metta`
+
+#### ⚠️ Layer 5: Signal Disruption & Entropic Drift
+- Identifies breakdown signatures across quadrants
+- Detects coherence decay and signal weakening
+- Triggers alerts and flags entropy when system-wide drift occurs
+- Prescribes stabilizing sequences to mitigate systemic lag
+- Forecasts failure states when correction is not applied
+
+---
+
+### `IONATION_MeTTa_Layer6_FieldReset.metta`
+
+#### ♻️ Layer 6: Phase Transition & Field Reset
+- Encodes transformation through breakdown and surrender
+- Defines catalysts for resetting field resonance
+- Guides the agent through symbolic rituals for realignment
+- Restores post-disruption states of lucidity, calibration, and resilience
+- Rebuilds a refined IONATION profile from collapse to coherence
+
+---
+
 ## 🛠️ How to Use
 
 1. Load into a MeTTa-compatible environment (e.g., SingularityNET's Hyperon).
-2. Use `(Eval ...)` to query flows, coherence, concept blends, or interventions.
-3. Extend with probabilistic edges, concept inheritance, or dynamic user agents.
+2. Use `(Eval ...)` to simulate transitions, feedback, and disruptions.
+3. Build on this structure with external ontologies, temporal models, or quantum field representations.
 
 ---
 
 ## 🌐 Learn More
 
 Visit [turnyourion.com](https://turnyourion.com) or follow the research on vibrational systems, symbolic AI, and transformational frameworks.
-Read the whitepaper for further information
 
 ---
 
