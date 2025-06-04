@@ -25,6 +25,7 @@ Rather than merely compute or optimize, IONATION® guides intelligent systems to
 ## Repository Contents
 
 - [`IONATION_Whitepaper.pdf`](./IONATION_Whitepaper.pdf) – Full whitepaper introducing the framework
+- `/MeTTa/` - Repository for MeTTa code of IONATION® translation into SingularityNET 
 - `/assets/` – Core diagrams, logos, and concept visuals (quadrants, tesseract, etc.)
 - `/proposals/` – Submissions to SingularityNET RFPs across five AGI development tracks
 - `/slides/` – Introductory deck and architecture overview
