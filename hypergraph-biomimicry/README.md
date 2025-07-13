@@ -66,15 +66,15 @@ All code is written in MeTTa and designed to run in Hyperon’s Atomspace. Each 
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone this repository
-2. Install [Hyperon](https://github.com/singnet/atomspace) (Atomspace + MeTTa)
-3. Run snippets inside the MeTTa REPL to explore dynamic, adaptive, biomimetic systems
-
-```bash
-git clone https://github.com/yourusername/IONATION_Biomimetic_Hypergraph.git
-cd IONATION_Biomimetic_Hypergraph/code
+## Broader Applications
+- Supply Chain Resilience
+Nodes = suppliers; Links = reliability, delays, routes
+- Decentralized Scientific Collaboration
+Nodes = researchers; Links = reproducibility, relevance, trust
+- Urban Infrastructure Management
+Nodes = facilities/intersections; Links = load, energy usage, traffic flow
+- Sensor Networks & IoT Ecosystems
+Nodes = sensors/devices; Links = signal strength, event priority
 
 
 ## Further elaboration
